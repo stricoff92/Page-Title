@@ -1,0 +1,21 @@
+body {
+    font-family:arial;
+}
+
+#heading {
+    color:orange;
+    background-color:blue;
+    padding:15px;
+    display:inline-block;
+    margin:15px;
+}
+
+.choice-btn{
+    margin:15px;
+    font-weight:bold;
+    padding:8px;
+}
+
+#game-results{
+    display:none;
+}
